@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+requests
+scipy
+pyproj
+xgboost
+python-dotenv
